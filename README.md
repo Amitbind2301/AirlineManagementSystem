@@ -65,6 +65,25 @@ Staff Login: View assigned flights, manage check-ins, and passenger status.
 Passenger Login: Book flights, view tickets, cancel bookings.
 
 **🖼️ Screenshots**
+![Homepage section](img.png)
+
+![Footer section](img2.png)
+
+![Booking section](img3.png)
+
+![Contact section](img4.png)
+
+![Login section](img5.png)
+
+![Admin section](img6.png)
+
+![Add section](img7.png)
+
+![Manage Section](img8.png)
+
+![New account Section](img9.png)
+
+![Account Section](img10.png)
 
 
 ##**👨‍💻 Contributors**
